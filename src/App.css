@@ -145,7 +145,7 @@ img {
 }
 
 .button:hover {
-  box-shadow: 1px 1px 1px black;
+  box-shadow: 0px 5px 5px gray;
 }
 
 .button__icon {
