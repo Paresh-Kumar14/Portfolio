@@ -27,7 +27,7 @@ const Footer = () => {
                 <i className="bx bxl-twitter"></i>
                 </a>
                 </div>
-                <span className="footer__copy">&#169; Paresh. All rights reserved.</span>
+                <span className="footer__copy">&#169; 2023 Paresh Kumar Behera , All rights reserved .</span>
             </div>
         </footer>
     )
